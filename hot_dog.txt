@@ -1,7 +1,6 @@
-bułka
-parówka
-musztarda
-ogórek
-cebula
+mała bułka
+mini parówka
+mało musztardy
+mała cebula
 
 złóż wszystko i podaj klientowi.
